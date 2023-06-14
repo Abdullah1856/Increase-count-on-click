@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+button{
+    padding: 10px 30px 10px 30px;
+    color: #fff;
+    background-color: red;
+    border: 0px;
+}
